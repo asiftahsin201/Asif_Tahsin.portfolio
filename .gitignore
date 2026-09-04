@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Node / tooling (not used, but common)
+node_modules/
+.npm/
+
+# Local env files
+.env
+.env.*
+
+# Logs
+*.log
